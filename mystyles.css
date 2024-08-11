@@ -1,0 +1,43 @@
+body {
+    background-image:url(fondoportfolio.jpg);
+}
+
+h1#Tituloprincipal {
+    color: cornflowerblue;
+    font-size-adjust: calc(1);
+    font-family: fantasy;
+}
+
+h1.Titulo {
+   color: darkcyan;
+   font-style: oblique;
+   font-family: fantasy;
+}
+
+p.Info {
+    color: blanchedalmond;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: cadetblue;
+    font-size: large;
+}
+
+h1.Titulodos {
+    color: darkseagreen;
+    font-style: oblique;
+    font-family: fantasy;
+}
+
+p.Infodos {
+    color: aqua;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: dimgray;
+    font-size: large;
+}
+
+h1#agradecimiento{
+    color: cornflowerblue;
+    font-family: fantasy;
+   
+}
